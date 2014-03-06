@@ -1,4 +1,5 @@
 Sublime-Preferences
 ===================
 
-Mes préférences pour Sublime Text 
+Mes préférences pour Sublime Text.
+
