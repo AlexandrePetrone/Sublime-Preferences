@@ -1,0 +1,16 @@
+{
+	"auto_complete": false,
+	"color_scheme": "Packages/Color Scheme - Default/Peacock.tmTheme",
+	"detect_slow_plugins": false,
+	"flatland_square_tabs": false,
+	"ignored_packages":
+	[
+		"BracketHighlighter",
+		"Vintage",
+		"SublimeCodeIntel"
+	],
+	"tab_size": 4,
+	"theme": "Flatland Dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"word_wrap": true
+}
