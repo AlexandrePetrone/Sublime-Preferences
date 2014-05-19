@@ -1,0 +1,51 @@
+<snippet>
+	<content><![CDATA[
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>My Title</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="description" content="My Own Description">
+<meta name="keywords" content="My Keywords">
+
+<!-- FACEBOOK SHARING -->
+<meta property="og:title" content="My Facebook Title">
+<meta property="og:description" content="My Facebook Description">
+<meta property="og:image" content="img/apercu-facebook.jpg">
+
+<!-- LINK FAVICON -->
+<link rel="shortcut icon" href="img/favicon.png">
+<link rel="apple-touch-icon" type="image/png" href="img/apple-touch-icon.png">
+<link rel="icon" type="image/png" href="img/favicon.png">
+
+<!-- LINK CSS -->
+<link rel="stylesheet" href="css/reset.css">
+<link rel="stylesheet" href="css/grid.css">
+<link rel="stylesheet" href="css/font.css">
+<link rel="stylesheet" href="css/main.css">
+<link rel="stylesheet" href="css/custom.css">
+
+
+<!-- LINK JS -->
+<script type="text/javascript" src="js/balises.js"></script>
+<script type="text/javascript" src="js/script.js"></script>
+
+<!--[if lte IE 7]>
+   <p class="oldBrowser">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+<![endif]-->
+
+<!--[if lte IE 8]>
+    <style type="text/css">
+        @import "css/ie-only.css";
+    </style>
+<![endif]-->
+
+</head>
+
+<body>
+</body>
+</html>
+]]></content>
+<tabTrigger>html5+</tabTrigger>
+
+</snippet>
